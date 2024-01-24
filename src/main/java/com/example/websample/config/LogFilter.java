@@ -6,6 +6,7 @@ import org.springframework.stereotype.Component;
 
 import java.io.IOException;
 
+//필터 추가 실습
 @Slf4j
 public class LogFilter implements Filter {
 
